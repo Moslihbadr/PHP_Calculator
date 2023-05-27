@@ -18,6 +18,7 @@
       <option value="power">power</option>
     </select>
     <input name="num2" type="number" placeholder="Number 2">
+    <input type="submit" value="calculate">
     </form>
   </div>
 </body>
